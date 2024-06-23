@@ -1,7 +1,5 @@
-# certificaciones
-Certificaciones de Estudios
 # Certificaciones
-
+Certificaciones de Estudios
 ## [Desarrollador web]![desarrolloweb](https://github.com/NatanaelLeites/certificaciones/assets/111026848/7ca49ff8-b3c1-4d32-9771-82b58f77d687)
 
 **CoderHouse**  
