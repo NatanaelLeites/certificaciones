@@ -15,3 +15,8 @@ Fecha de obtención: 01/2023
 
 **Academia Agil**  
 Fecha de obtención: 04/2024
+
+## [Experiencia]![scrumContext](https://github.com/NatanaelLeites/certificaciones/blob/main/NATANAEL%20SANGUINET.jpg)
+
+**No Country**  
+Fecha de obtención: 05/2024
