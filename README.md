@@ -16,12 +16,12 @@ Fecha de obtención: 01/2023
 **Academia Agil**  
 Fecha de obtención: 04/2024
 
-## [Apps Moviles]![)
+## [Apps Moviles]!(https://github.com/NatanaelLeites/certificaciones)
 
 **Google Activate**  
 Fecha de obtención: 7/2021
 
-## [Experiencia]![scrumContext](https://github.com/NatanaelLeites/certificaciones/blob/main/NATANAEL%20SANGUINET.jpg)
+## [Experiencia]!(https://github.com/NatanaelLeites/certificaciones/blob/main/NATANAEL%20SANGUINET.jpg)
 
 **No Country**  
 Fecha de obtención: 05/2024
