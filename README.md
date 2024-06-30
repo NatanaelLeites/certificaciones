@@ -16,13 +16,15 @@ Fecha de obtención: 01/2023
 **Academia Agil**  
 Fecha de obtención: 04/2024
 
-## [Apps Moviles]!(![googleApps](https://github.com/NatanaelLeites/certificaciones/assets/111026848/7ab872e7-966e-4061-89bd-b00380a8f77b)
-)
+
+## [Apps Moviles]!(![googleApps]https://github.com/NatanaelLeites/certificaciones/assets/111026848/7ab872e7-966e-4061-89bd-b00380a8f77b)
 
 **Google Activate**  
 Fecha de obtención: 7/2021
 
-## [Experiencia]!(https://github.com/NatanaelLeites/certificaciones/assets/111026848/cc2d8cb0-653b-4e55-9780-a310e0835d13)
+
+## ![NATANAEL SANGUINET](https://github.com/NatanaelLeites/certificaciones/assets/111026848/cc2d8cb0-653b-4e55-9780-a310e0835d13)
+
 
 **No Country**  
 Fecha de obtención: 05/2024
