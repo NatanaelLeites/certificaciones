@@ -17,7 +17,7 @@ Fecha de obtención: 01/2023
 Fecha de obtención: 04/2024
 
 
-## [Apps Moviles]!(![googleApps]https://github.com/NatanaelLeites/certificaciones/assets/111026848/7ab872e7-966e-4061-89bd-b00380a8f77b)
+## ![googleApps](https://github.com/NatanaelLeites/certificaciones/assets/111026848/a625c6c0-4e4b-4fdc-81e4-bfef69648123)
 
 **Google Activate**  
 Fecha de obtención: 7/2021
