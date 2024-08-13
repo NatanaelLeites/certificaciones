@@ -1,5 +1,5 @@
 # Certificaciones
-## [Reducciones, filtros y transformaciones Javascript]![javascript](https://github.com/NatanaelLeites/certificaciones/assets/transformacion-filtros-reducciones.png)
+## [Reducciones, filtros y transformaciones Javascript]![javascript](assets/transformacion-filtros-reducciones.png)
 
 **Desafio Latam**  
 Fecha de obtención: 12/08/2024
