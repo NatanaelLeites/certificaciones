@@ -6,21 +6,21 @@ Fecha de obtención: 12/08/2024
 
 
 
-## [Introduccion a ciclos Javascript]![javascript](https://github.com/NatanaelLeites/certificaciones/assets/introduccion-ciclos.png)
+## [Introduccion a ciclos Javascript]![javascript](assets/introduccion-ciclos.png)
 
 **Desafio Latam**  
 Fecha de obtención: 03/08/2024
 
 
 
-## [Introduccion a arreglos Javascript]![javascript](https://github.com/NatanaelLeites/certificaciones/assets/introduccion-arreglos.png)
+## [Introduccion a arreglos Javascript]![javascript](assets/introduccion-arreglos.png)
 
 **Desafio Latam**  
 Fecha de obtención: 29/07/2024
 
 
 
-## [Manipulacion de strings Javascript]![javascript](https://github.com/NatanaelLeites/certificaciones/assets/manipulacion-Strings.png)
+## [Manipulacion de strings Javascript]![javascript](assets/manipulacion-Strings.png)
 
 **Desafio Latam**  
 Fecha de obtención: 28/07/2024
@@ -28,14 +28,14 @@ Fecha de obtención: 28/07/2024
 
 
 Certificaciones de Estudios
-## [Flujos Javascript]![javascript](https://github.com/NatanaelLeites/certificaciones/assets/introduccion-flujo.png)
+## [Flujos Javascript]![javascript](assets/introduccion-flujo.png)
 
 **Desafio Latam**  
 Fecha de obtención: 28/07/2024
 
 
 
-## [Fundamentos Javascript]![javascript](https://github.com/NatanaelLeites/certificaciones/assets/fundamentos-introductorios.png)
+## [Fundamentos Javascript]![javascript](assets/fundamentos-introductorios.png)
 
 **Desafio Latam**  
 Fecha de obtención: 21/07/2024
