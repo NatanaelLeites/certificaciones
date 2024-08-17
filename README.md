@@ -42,6 +42,13 @@ Fecha de obtención: 21/07/2024
 
 
 
+## [Reducciones, filtros y transformaciones Javascript]![javascript](assets/transformacion-filtros-reducciones.png)
+
+**Desafio Latam**  
+Fecha de obtención: 12/08/2024
+
+
+
 ## ![NATANAEL SANGUINET](https://github.com/NatanaelLeites/certificaciones/assets/111026848/cc2d8cb0-653b-4e55-9780-a310e0835d13)
 
 **No Country**  
