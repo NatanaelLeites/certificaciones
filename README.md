@@ -4,7 +4,7 @@
 **Desafio Latam**  
 Fecha de obtención: 12/09/2024
 
-## [Certificado ingles para dev's]![javascript](Natanael Leites - 2024-07-21.pdf)
+## [Certificado ingles para dev's]![javascript](assets/Ingles-profesionales-IT.jpg)
 
 **Desafio Latam**  
 Fecha de obtención: 12/09/2024
