@@ -1,51 +1,8 @@
 # Certificaciones
-## [Reducciones, filtros y transformaciones Javascript]![javascript](assets/transformacion-filtros-reducciones.png)
+## [Certificado Final Javascript]![javascript](assets/certificadoFinal.png)
 
 **Desafio Latam**  
-Fecha de obtención: 12/08/2024
-
-
-
-## [Introduccion a ciclos Javascript]![javascript](assets/introduccion-ciclos.png)
-
-**Desafio Latam**  
-Fecha de obtención: 03/08/2024
-
-
-
-## [Introduccion a arreglos Javascript]![javascript](assets/introduccion-arreglos.png)
-
-**Desafio Latam**  
-Fecha de obtención: 29/07/2024
-
-
-
-## [Manipulacion de strings Javascript]![javascript](assets/manipulacion-Strings.png)
-
-**Desafio Latam**  
-Fecha de obtención: 28/07/2024
-
-
-
-Certificaciones de Estudios
-## [Flujos Javascript]![javascript](assets/introduccion-flujo.png)
-
-**Desafio Latam**  
-Fecha de obtención: 28/07/2024
-
-
-
-## [Fundamentos Javascript]![javascript](assets/fundamentos-introductorios.png)
-
-**Desafio Latam**  
-Fecha de obtención: 21/07/2024
-
-
-
-## [Reducciones, filtros y transformaciones Javascript]![javascript](assets/transformacion-filtros-reducciones.png)
-
-**Desafio Latam**  
-Fecha de obtención: 12/08/2024
+Fecha de obtención: 12/09/2024
 
 
 
