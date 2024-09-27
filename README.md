@@ -1,5 +1,5 @@
 # Certificaciones
-## [Certificado GitHub]![GitHub](assets/certificadoGitHub.jpg)
+## [Certificado GitHub]![GitHub](certificadoGitHub.jpg)
 
 **Desafio Latam**  
 Fecha de obtención: 25/09/2024
