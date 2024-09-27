@@ -1,4 +1,9 @@
 # Certificaciones
+## [Certificado GitHub]![javascript](assets/certificadoGitHub.jpg)
+
+**Desafio Latam**  
+Fecha de obtención: 25/09/2024
+
 ## [Certificado Final Javascript]![javascript](assets/certificadoFinal.png)
 
 **Desafio Latam**  
