@@ -1,5 +1,5 @@
 # Certificaciones
-## [Certificado CSS Avanzado]![CSS](assets/CSS avanzado.jpg)
+## [Certificado CSS Avanzado]![CSS](assets/CSSavanzado.jpg)
 
 **Desafio Latam**  
 Fecha de obtención: 4/10/2024
