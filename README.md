@@ -1,4 +1,10 @@
 # Certificaciones
+## [Certificado CSS Avanzado]![CSS](assets/CSS avanzado.jpg)
+
+**Desafio Latam**  
+Fecha de obtención: 4/10/2024
+
+
 ## [Certificado GitHub]![GitHub](certificadoGitHub.jpg)
 
 **Desafio Latam**  
