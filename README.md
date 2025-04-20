@@ -1,5 +1,5 @@
 # Certificaciones
-## [Certificado React]![Javascript+Vite](assets/react-base.png)
+## Certificado React![Javascript+Vite](assets/react-base.png)
 
 **Desafio Latam**  
 Fecha de obtención: 20/04/2025
