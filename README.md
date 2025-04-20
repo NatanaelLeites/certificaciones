@@ -4,7 +4,7 @@
 **Desafio Latam**  
 Fecha de obtención: 20/04/2025
 
-## [Certificado Hacking Etico]!(assets/hackingEtico.png)
+## [Certificado Hacking Etico]!(assets/hacking.png)
 
 **Desafio Latam**  
 Fecha de obtención: 14/02/2025
