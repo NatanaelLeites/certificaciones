@@ -1,4 +1,20 @@
 # Certificaciones
+## [Certificado React]![Javascript+Vite](assets/react-base.png)
+
+**Desafio Latam**  
+Fecha de obtención: 20/04/2025
+
+## [Certificado Hacking Etico]!(assets/hackingEtico.png)
+
+**Desafio Latam**  
+Fecha de obtención: 14/02/2025
+
+
+## [Certificado Github Copilot]![GitHub](assets/githubCopilot.png)
+
+**Codigo Facilito**  
+Fecha de obtención: 31/12/2024
+
 ## [Certificado CSS Avanzado]![CSS](assets/CSSavanzado.jpg)
 
 **Desafio Latam**  
